@@ -15,5 +15,5 @@ Day 01 : Today I have covered basic fundamental concepts of various topics as li
           - Why Javascript is Object Oriented Language?
           - Methods
           - Mutable and Imutable Classification
-          - Varibales in Javascript
+          - Variabes in Javascript
           
