@@ -2,30 +2,6 @@
 This repository consists of various theories, projects and codes that are covered under my "100 Days of Code Challenge "
 
 
-
-Day 02 : Types, Values and Variables
-
-Numbers
-Underflow
-NaN
-Dates and Times
-String
-Escape Sequence
-Length of String
-Null
-Undefined
-Global Object
-Wrapper Object
-Global and Function Scope
-
-
-
-
-
-
-
-
-
 Day 01 : Today I have covered basic fundamental concepts of various topics as listed below:-
 
           - What is Javascript?
@@ -42,3 +18,19 @@ Day 01 : Today I have covered basic fundamental concepts of various topics as li
           - Mutable and Imutable Classification
           - Variabes in Javascript
           
+          
+          
+Day 02 : Types, Values and Variables
+
+Numbers
+Underflow
+NaN
+Dates and Times
+String
+Escape Sequence
+Length of String
+Null
+Undefined
+Global Object
+Wrapper Object
+Global and Function Scope
