@@ -1,6 +1,30 @@
 # 100_days_of_code_challenge
 This repository consists of various theories, projects and codes that are covered under my "100 Days of Code Challenge "
 
+Day 03: Topic Covered: 
+Control Structures, 
+Empty Statements, 
+Hoisting vs Scope, 
+Switch, 
+Sequence of Operation of For Loop.
+
+
+Day 02 : Types, Values and Variables
+
+Numbers
+Underflow
+NaN
+Dates and Times
+String
+Escape Sequence
+Length of String
+Null
+Undefined
+Global Object
+Wrapper Object
+Global and Function Scope
+
+
 
 Day 01 : Today I have covered basic fundamental concepts of various topics as listed below:-
 
@@ -20,17 +44,3 @@ Day 01 : Today I have covered basic fundamental concepts of various topics as li
           
           
           
-Day 02 : Types, Values and Variables
-
-Numbers
-Underflow
-NaN
-Dates and Times
-String
-Escape Sequence
-Length of String
-Null
-Undefined
-Global Object
-Wrapper Object
-Global and Function Scope
