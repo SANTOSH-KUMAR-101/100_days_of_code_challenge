@@ -1,6 +1,19 @@
 # 100_days_of_code_challenge
 This repository consists of various theories, projects and codes that are covered under my "100 Days of Code Challenge "
 
+
+Day 04: Topic Covered: 
+for/in loop, 
+jump statements, 
+break, 
+continue, 
+return, 
+throw, 
+labelled statement, 
+try/catch/finally
+
+
+
 Day 03: Topic Covered: 
 Control Structures, 
 Empty Statements, 
