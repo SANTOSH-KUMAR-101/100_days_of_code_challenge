@@ -1,6 +1,15 @@
 # 100_days_of_code_challenge
 This repository consists of various theories, projects and codes that are covered under my "100 Days of Code Challenge "
 
+# Day 05: Topics Covered: 
+
+Debugger Statement, 
+What is Object, 
+Property, 
+Category of Object, 
+Creating Objects,  
+Querying and Setting Properties, 
+Deleting properties
 
 ## Day 04: Topic Covered: 
 for/in loop, 
