@@ -9,7 +9,7 @@ Property,
 Category of Object, 
 Creating Objects,  
 Querying and Setting Properties, 
-Deleting properties
+Deleting properties.
 
 ## Day 04: Topic Covered: 
 for/in loop, 
