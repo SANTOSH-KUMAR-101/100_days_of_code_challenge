@@ -7,7 +7,7 @@ Debugger Statement,
 What is Object, 
 Property, 
 Category of Object, 
-Creating Objects,  
+Creating Objects,   
 Querying and Setting Properties,  
 Deleting properties.
 
