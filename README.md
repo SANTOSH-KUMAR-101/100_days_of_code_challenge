@@ -8,7 +8,7 @@ What is Object,
 Property, 
 Category of Object, 
 Creating Objects,  
-Querying and Setting Properties, 
+Querying and Setting Properties,  
 Deleting properties.
 
 ## Day 04: Topic Covered: 
