@@ -33,7 +33,7 @@ Sequence of Operation of For Loop.
 
 ## Day 02 : Types, Values and Variables
 
-Numbers
+Numbers 
 Underflow
 NaN
 Dates and Times
