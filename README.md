@@ -29,7 +29,7 @@ Empty Statements,
 Hoisting vs Scope, 
 Switch, 
 Sequence of Operation of For Loop.
-
+ 
 
 ## Day 02 : Types, Values and Variables
 
