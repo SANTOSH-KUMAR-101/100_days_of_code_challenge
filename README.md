@@ -46,7 +46,7 @@ Global Object
 Wrapper Object
 Global and Function Scope
 
-
+ 
 
 ## Day 01 : Today I have covered basic fundamental concepts of various topics as listed below:-
 
